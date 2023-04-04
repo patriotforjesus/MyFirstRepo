@@ -1,3 +1,4 @@
 Adding this change on the main branch
 Adding this change on the conflict branch
 Fixing an issue on the main branch
+Writing out line 1
